@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function Header () {
     return (       
-      <nav className="bg-gray-50 dark:bg-gray-700">
+      <nav className="bg-gray-50 dark:bg-gray-700 dark:text-white">
           <div className="max-w-screen-xl px-4 py-3"> 
               <div className="flex items-center justify-between">
                   <h2 className="font-mono">Fruit-Joy</h2>
