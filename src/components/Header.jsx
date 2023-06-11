@@ -8,10 +8,10 @@ function Header () {
                   <h2 className="font-mono">Fruit-Joy</h2>
                   <ul className="flex flex-row font-medium mt-0 mr-6 space-x-8 text-sm">
                       <li>
-                        <Link href="/"><p className="text-gray-900 opacity-80 ease-in duration-300 hover:opacity-100 hover:scale-125">Home</p></Link> 
+                        <Link href="/"><p className="text-gray-900 opacity-80 ease-in duration-300 hover:opacity-100 hover:scale-125 dark:text-white">Home</p></Link> 
                       </li>
                       <li>
-                        <Link href="/characters"><p className="text-gray-900 opacity-80 ease-in duration-300 hover:opacity-100 hover:scale-125">Fruits</p></Link> 
+                        <Link href="/characters"><p className="text-gray-900 opacity-80 ease-in duration-300 hover:opacity-100 hover:scale-125 dark:text-white">Fruits</p></Link> 
                       </li>
                   </ul>
               </div>
