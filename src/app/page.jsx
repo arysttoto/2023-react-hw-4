@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <div className="flex items-center h-screen justify-center bg-gradient-to-r from-cyan-500 to-blue-500">
         <div className="text-center">
-          <h1 className="mt-5 text-center mb-4 text-6xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-black">
+          <h1 className="mt-5 text-center mb-4 text-6xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-black">
             Insipired by Yummy Fruits
           </h1> 
           <Link href="/characters" className="my-5 text-xl relative inline-flex items-center justify-start py-3 pl-4 pr-12 overflow-hidden font-semibold text-indigo-600 transition-all duration-150 ease-in-out rounded hover:pl-10 hover:pr-6 bg-gray-50 group">

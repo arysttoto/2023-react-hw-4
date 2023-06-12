@@ -6,7 +6,7 @@ async function Fruits () {
     return (
         <> 
         <div className="cards bg-gradient-to-r from-sky-500 to-indigo-500">
-            <h1 className="p-5 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-black">Our Fruits</h1>
+            <h1 className="p-5 text-center text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-black">Our Fruits</h1>
             <div className="text-center">
                 {fruits.map((fruit, index) => (    
                     //
